@@ -1,28 +1,5 @@
 # 💻 Mahaboob Subhani Shaik  
 **Senior SDET | Automation Architect | Full Stack Developer**  
-<div align="center">
-  
-<!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22DDF7&width=600&lines=Building+Future+With+Automation;Saving+200+Hours+Monthly+With+AI;Transforming+Testing+With+Innovation" alt="Typing Animation">
-
-<!-- Automation visualization -->
-<pre>
-███████████████████████████
-███████▀▀▀░░░░░░░▀▀▀███████
-████▀░░░░░░░░░░░░░░░░░▀████
-███│░░░░░░░░░░░░░░░░░░░│███
-██▌│░░░░░░░░░░░░░░░░░░░│▐██
-██░└┐░░░░░░░░░░░░░░░░░┌┘░██
-██░░└┐░░░░░░░░░░░░░░░┌┘░░██
-██░░░└┐░░░░░░░░░░░░░┌┘░░░██
-██░░░┌┘▄▄▄▄▄░░░░░▄▄▄▄▄└┐░░██
-██▌░▄████████▄░░░▄██████▄░▐██
-███▄██████████▄░▄█████████▄███
-██████████████████████████████
-██████████████████████████████
-</pre>
-
-</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22DDF7&width=435&lines=API+Automation+Expert;Web+Development+Pro;SpringBoot+Chatbot+Creator;Quality+Engineer" alt="Typing Animation">
