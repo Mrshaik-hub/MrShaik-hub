@@ -38,34 +38,32 @@ https://user-images.githubusercontent.com/your-video-path/preview
 
 ## 🛠️ Testing Technology Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
 ### Automation Frameworks
-<a href="#"><img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Appium-3D4A5E?logo=appium&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Karate-000000?logo=karate&logoColor=white"></a>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-3D4A5E?style=for-the-badge&logo=Appium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-000000?style=for-the-badge&logo=Karate&logoColor=white)
 
 ### Test Runners & Libraries
-<a href="#"><img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/TestNG-009933?logo=testng&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/RestAssured-66CCFF?logo=rest-assured&logoColor=black"></a>
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-009933?style=for-the-badge&logo=TestNG&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-66CCFF?style=for-the-badge&logo=Rest-Assured&logoColor=black)
 
 ### CI/CD & DevOps
-<a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 
 ### API Testing
-<a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Karate-000000?logo=karate&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/RestAssured-66CCFF?logo=rest-assured&logoColor=black"></a>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
+![SoapUI](https://img.shields.io/badge/SoapUI-5B5B5B?style=for-the-badge&logo=SoapUI&logoColor=white)
 
 ### Test Management
-<a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/TestRail-65C179?logo=testrail&logoColor=white"></a>
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=TestRail&logoColor=white)
 
 </div>
 
