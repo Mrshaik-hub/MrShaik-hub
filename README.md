@@ -62,11 +62,12 @@
   
 
 ## 🔥 Why ApplyMate?
-<img align="right" alt="Coding" width="500" src="https://zylitix.ai/wp-content/uploads/2024/04/rpa-gif-img.gif">
 
 <div align="center">
   
   "Tired of manual job hunting? Let our AI army work 24/7 for you!"  
+
+  <img align="right" alt="Coding" width="200" src="https://zylitix.ai/wp-content/uploads/2024/04/rpa-gif-img.gif">
   
 
 </div>
