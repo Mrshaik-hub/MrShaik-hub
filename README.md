@@ -15,8 +15,14 @@
 
   <p align="center"><strong><span style="font-size: 20px;">CRAFTING CLEAN CODE & TEST AUTOMATION MAGIC</span></strong></p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif">
+<p align="center">
+  <img alt="Coding 1" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+</p>
+
+<p align="center">
+  <img alt="Coding 2" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif" />
+</p>
+
 
 <p align="left">
   <a href="https://twitter.com/shaik_mahaboob" target="_blank">
