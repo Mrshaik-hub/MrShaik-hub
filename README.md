@@ -56,31 +56,16 @@ https://user-images.githubusercontent.com/your-video-path/preview
 ### CI/CD & DevOps
 <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"></a>
 
 ### API Testing
 <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black"></a>
-<a href="#"><img src="https://img.shields.io/badge/SoapUI-5B5B5B?logo=soapui&logoColor=white"></a>
-
-### Mobile Testing
-<a href="#"><img src="https://img.shields.io/badge/Appium-3D4A5E?logo=appium&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Espresso-000000?logo=espresso&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/XCUITest-000000?logo=xcode&logoColor=white"></a>
-
-### Performance Testing
-<a href="#"><img src="https://img.shields.io/badge/JMeter-D22128?logo=apache-jmeter&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Gatling-FF9E2A?logo=gatling&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Karate-000000?logo=karate&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/RestAssured-66CCFF?logo=rest-assured&logoColor=black"></a>
 
 ### Test Management
 <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/TestRail-65C179?logo=testrail&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/QTest-0270AD?logo=qtest&logoColor=white"></a>
-
-### Security Testing
-<a href="#"><img src="https://img.shields.io/badge/OWASP-000000?logo=owasp&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Burp_Suite-000000?logo=burp-suite&logoColor=white"></a>
 
 </div>
 
