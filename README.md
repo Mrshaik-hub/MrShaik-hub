@@ -56,6 +56,7 @@ https://user-images.githubusercontent.com/your-video-path/preview
 
 ### API Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Karate](https://img.shields.io/badge/Karate-000000?style=for-the-badge&logo=Karate&logoColor=white)
 
 ### Test Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
