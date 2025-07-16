@@ -16,7 +16,9 @@
   <p align="center"><strong><span style="font-size: 20px;">CRAFTING CLEAN CODE & TEST AUTOMATION MAGIC</span></strong></p>
 
 
-<img align="right" style="margin-top: 2000px; margin-left: 30px;" width="400"  src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif">
+<p align="right" style="margin-top: 60px; margin-left: 30px;">
+  <img width="400" src="https://static.tildacdn.biz/tild3930-6134-4666-b963-386462303334/programmer_1.gif" alt="Coding">
+</p>
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=Mrshaik-hub&color=268f77&label=Hey!!!+Visitor)
 
