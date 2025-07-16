@@ -2,8 +2,11 @@
 ** SDET | Automation Architect | **
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif" width="300" alt="ApplyMate in action">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7D9&width=600&lines=Welcome+to+my+GitHub+Profile!;3.8+Years+of+Automation+Excellence;70%25+Regression+Effort+Reduction;150%2B+APIs+Automated" alt="Header Animation">
 </div>
+
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 2;">
 
 ## 💻 About Me
 
