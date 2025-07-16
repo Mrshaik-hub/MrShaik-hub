@@ -62,11 +62,12 @@
   
 
 ## 🔥 Why ApplyMate?
+<img align="right" alt="Coding" width="500" src="https://zylitix.ai/wp-content/uploads/2024/04/rpa-gif-img.gif">
 
 <div align="center">
   
   "Tired of manual job hunting? Let our AI army work 24/7 for you!"  
-  [![Tweet this](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FMrshaik-hub%2FApplyMate)](https://twitter.com/intent/tweet?text=Check%20out%20this%20awesome%20job%20automation%20tool!&url=https%3A%2F%2Fgithub.com%2FMrshaik-hub%2FApplyMate)
+  
 
 </div>
 
