@@ -66,17 +66,19 @@
 <div align="center">
  <img align="right" alt="Coding" width="200" src="https://zylitix.ai/wp-content/uploads/2024/04/rpa-gif-img.gif">
   
-"🚀 **Stop the job search grind** - Our AI does the heavy lifting while you focus on what matters!"  
+"🤖 **Smart Profile Optimization** - Automatically updates your Naukri keywords daily based on market trends"  
 
-"💼 **Never miss an opportunity** - Intelligent tracking for new openings across 50+ job boards"  
+"📄 **Resume Auto-Uploader** - Rotates and optimizes your resume versions for each application"  
 
-"⏳ **Save 20+ hours/week** - Automate applications, follow-ups, and interview scheduling"  
+"⚡ **One-Click Mass Apply** - Processes 100+ applications daily with intelligent job matching"  
 
-"🤖 **AI that learns your preferences** - Gets smarter with every application you approve"  
+"🔍 **Precision Targeting** - Applies only to roles matching your customized criteria (salary, location, skills)"  
 
-"📈 **Real-time dashboard** - Track applications, responses, and optimize your strategy"  
+"📊 **Application Analytics** - Tracks response rates and optimizes future applications"  
 
 </div>
+
+<div align="center" style="margin-top: 20px;">
 
 <div align="center" style="margin-top: 20px;">
   
