@@ -1,76 +1,77 @@
-# 👋 Hello World! I'm Mahaboob Subhani Shaik
+# 💻 Mahaboob Subhani Shaik  
+**Senior SDET | Automation Architect | Full Stack Developer**  
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif" width="600" alt="Automation in action">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22DDF7&width=435&lines=API+Automation+Expert;Web+Development+Pro;SpringBoot+Chatbot+Creator;Quality+Engineer" alt="Typing Animation">
 </div>
 
-## 🔥 Senior SDET & Automation Architect
+## 🔭 I'm Currently Working At  
+**HSBC** - SDET Software Engineer (Dec 2021 - Present)  
+- Building automation frameworks with 70% efficiency gains  
+- Specializing in financial message validation (SWIFT/CAMT)  
+- Leading API automation for PSD2/Open Banking compliance  
 
-**Building bulletproof test automation frameworks that scale**  
-📍 Hyderabad, India | ✉️ [shaikmahaboobsubhani00@gmail.com](mailto:shaikmahaboobsubhani00@gmail.com) | 📞 +91 7013058017
+## 🌱 I'm Currently Learning  
+- ARKit & CoreML for iOS automation  
+- Vapor server-side Swift development  
+- Realm database solutions  
+- Combine framework  
+
+## 🛠️ Tech Stack  
+
+### Automation  
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
+![Karate](https://img.shields.io/badge/-Karate-000000?logo=karate&logoColor=white)  
+![RestAssured](https://img.shields.io/badge/-Rest_Assured-66CCFF?logo=rest-assured&logoColor=black)  
+
+### Development  
+![SpringBoot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=spring-boot&logoColor=white)  
+![Swift](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+
+### DevOps  
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
+
+## 🚀 Featured Projects  
+
+### [ApplyMate](https://github.com/Mrshaik-hub/ApplyMate)  
+AI-powered job application automation system  
+
+### [Karate API Framework](https://github.com/Mrshaik-hub/Karate-API-Tests)  
+Financial services test automation solution  
+
+### [SpringBoot Chatbot](https://github.com/Mrshaik-hub/Chatbot)  
+Conversational AI for customer support  
+
+## 📝 I Write About Tech  
+[![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium&logoColor=white)](your-medium-profile)  
+Recent articles about automation and iOS development  
+
+## 🤝 Let's Collaborate  
+Looking to partner on:  
+- iOS automation projects  
+- API testing frameworks  
+- SpringBoot applications  
+
+## 💬 Ask Me About  
+- Automation framework design  
+- Financial message validation  
+- CI/CD pipeline setup  
+- SwiftUI development  
+
+## 📫 How to Reach Me  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:shaikmahaboobsubhani00@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![Phone](https://img.shields.io/badge/-Phone-25D366?logo=whatsapp&logoColor=white)](tel:+917013058017)  
+
+## ⚡ Fun Fact  
+I automate job searches while drinking ☕ - [Buy Me Coffee](https://buymeacoffee.com/yourhandle)  
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrshaik-hub)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](your-resume-link)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikmahaboobsubhani00@gmail.com)
-
-</div>
-
-## 🛠️ Tech Arsenal
-
-```mermaid
-pie title Tech Stack
-    "Java" : 35
-    "Selenium/Karate" : 25
-    "CI/CD Pipelines" : 20
-    "API Testing" : 15
-    "MongoDB/SQL" : 5
-💼 Professional Highlights
-🏦 HSBC | SDET Software Engineer | Dec 2021 - Present
-✅ 70% regression effort reduction through custom automation frameworks
-✅ Financial message validation for SWIFT (MT940/942/999) and CAMT formats
-✅ 150+ API endpoints automated for PSD2/Open Banking compliance
-✅ MongoDB/mainframe data validation with complex JSON handling
-
-🏆 Awards:
-
-ISO 20022 Program Delivery
-
-Circle of Excellence Award
-
-Certificate of Excellence (Exposys Data Labs)
-
-🚀 Featured Projects
-https://github-readme-stats.vercel.app/api/pin/?username=Mrshaik-hub&repo=ApplyMate&show_owner=true
-AI-powered job application automation system
-
-https://github-readme-stats.vercel.app/api/pin/?username=Mrshaik-hub&repo=Karate-API-Tests&show_owner=true
-Financial API test automation framework
-
-📊 GitHub Analytics
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=Mrshaik-hub&show_icons=true&theme=radical&count_private=true&include_all_commits=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=Mrshaik-hub&layout=compact&theme=radical&hide=html,css
-
-</div>
-📚 Continuous Learning
-markdown
-- [x] **Object Oriented Programming in Java** - UC San Diego (Coursera)
-- [x] **AWS Workshop** - AP State Skill Development
-- [x] **Web Development** - Johns Hopkins University
-- [ ] **ISTQB Advanced** - In Progress
-💬 Let's Talk Testing!
-"Want to discuss how we can automate your QA process with 70% efficiency gains?"
-
-📧 Email: shaikmahaboobsubhani00@gmail.com
-📞 Phone: +91 7013058017
-🌐 Available for: Consulting | Mentoring | Collaboration
-
-<div align="center">
-https://komarev.com/ghpvc/?username=Mrshaik-hub&color=blue&style=flat-square
-https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
-https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+![Profile Views](https://komarev.com/ghpvc/?username=Mrshaik-hub&color=blue&label=Profile+Views)  
+![GitHub Stars](https://img.shields.io/github/stars/Mrshaik-hub?label=GitHub%20Stars)  
 
 </div>
