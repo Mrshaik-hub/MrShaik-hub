@@ -72,9 +72,7 @@
 
 </div>
 
-## 🎬 Feature Showreel
 
-https://user-images.githubusercontent.com/your-video-path/preview
 
 ## ✨ Magical Features
 
