@@ -46,7 +46,6 @@ https://user-images.githubusercontent.com/your-video-path/preview
 ### Test Runners & Libraries
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=JUnit5&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-009933?style=for-the-badge&logo=TestNG&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=Pytest&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-66CCFF?style=for-the-badge&logo=Rest-Assured&logoColor=black)
 
 ### CI/CD & DevOps
