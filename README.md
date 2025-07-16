@@ -1,8 +1,41 @@
-# 🚀 ApplyMate Pro - The Ultimate Job Hunter's AI Sidekick
+# 🚀 Mahaboob Subhani Shaik
+** SDET | Automation Architect | **
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif" width="600" alt="ApplyMate in action">
 </div>
+
+## 💻 About Me
+
+🔭 **I'm currently working at HSBC** as an SDET Software Engineer  
+🌱 **I'm currently learning:**  
+![ARKit](https://img.shields.io/badge/-ARKit-black?style=flat&logo=apple)
+![CoreML](https://img.shields.io/badge/-CoreML-black?style=flat&logo=apple)
+![Vapor](https://img.shields.io/badge/-Vapor-0D0D0D?style=flat&logo=vapor)
+![Realm](https://img.shields.io/badge/-Realm-39477F?style=flat&logo=realm)
+
+👯 **I'm looking to collaborate on:**  
+- Automation frameworks  
+- AI-powered testing tools  
+- CI/CD pipeline optimizations  
+
+🤝 **I'm looking for help with:**  
+- Advanced Karate framework implementations  
+- Performance testing at scale  
+
+👨‍💻 **All my automation projects:**  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Mrshaik-hub?tab=repositories)
+
+📝 **I write about:**  
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](your-medium-profile)  
+*Testing strategies, Automation tips, and CI/CD best practices*
+
+💬 **Ask me about:**  
+- Selenium/Java automation  
+- Karate API testing  
+- Jenkins pipeline design  
+- SWIFT message validation  
+
 
 ## 🔥 Why ApplyMate?
 
