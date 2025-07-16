@@ -10,7 +10,7 @@
 
 ## 💻 About Me
 
-<div style="display: flex; gap: 20px;">
+<div style="display: flex; gap: 40px;">
   <div style="flex: 2;">
 
   <p align="center"><strong><span style="font-size: 20px;">CRAFTING CLEAN CODE & TEST AUTOMATION MAGIC</span></strong></p>
