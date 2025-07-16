@@ -1,9 +1,33 @@
 # 💻 Mahaboob Subhani Shaik  
 **Senior SDET | Automation Architect | Full Stack Developer**  
 
+# 🚀 Mahaboob Subhani Shaik - The Automation Alchemist
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22DDF7&width=435&lines=API+Automation+Expert;Web+Development+Pro;SpringBoot+Chatbot+Creator;Quality+Engineer" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7D9&width=600&lines=Transforming+Manual+Processes+→+Automation+Magic;70%25+Regression+Time+Reduction;150%2B+APIs+Automated;3.8+Years+QA+Wizardry" alt="Header Animation">
 </div>
+
+## 🔥 Why Automate With Me?
+
+<div align="center">
+"From manual drudgery to automated mastery - I make testing magical!"  
+[![Tweet this](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FMrshaik-hub&text=This%20SDET%20automates%20everything!)](https://twitter.com/intent/tweet)
+</div>
+
+## 🧙‍♂️ Automation Spellbook
+
+| Spell | Effect | Incantation |
+|-------|--------|-------------|
+| **Job Application Bot** | Applies to 100+ jobs daily | `java -jar ApplyMate.jar --stealth` |
+| **Test Framework** | 70% faster execution | `mvn test -Pregression` |
+| **API Validator** | 150+ endpoints tested | `karate test *.feature` |
+| **CI/CD Pipeline** | Zero-click deployments | `jenkins build automation-pipeline` |
+
+```mermaid
+pie
+    title "Automation Impact"
+    "Manual Testing" : 30
+    "Automated Testing" : 70
 
 ## 🔭 I'm Currently Working At  
 **HSBC** - SDET Software Engineer (Dec 2021 - Present)  
