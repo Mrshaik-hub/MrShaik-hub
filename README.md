@@ -49,8 +49,6 @@
 📄 **Know more about my journey:**  
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](your-resume-link)
 
-⚡ **Fun fact:** I automate job searches while drinking ☕  
-[![Buy Me Coffee](https://img.shields.io/badge/-Buy_Me_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](your-bmc-link)
 
   </div>
   <div style="flex: 1; align-self: center;">
