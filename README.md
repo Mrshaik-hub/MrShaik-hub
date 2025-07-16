@@ -40,8 +40,6 @@ https://user-images.githubusercontent.com/your-video-path/preview
 
 ### Automation Frameworks
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-3D4A5E?style=for-the-badge&logo=Appium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Karate](https://img.shields.io/badge/Karate-000000?style=for-the-badge&logo=Karate&logoColor=white)
 
@@ -58,8 +56,6 @@ https://user-images.githubusercontent.com/your-video-path/preview
 
 ### API Testing
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
-![SoapUI](https://img.shields.io/badge/SoapUI-5B5B5B?style=for-the-badge&logo=SoapUI&logoColor=white)
 
 ### Test Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
