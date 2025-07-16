@@ -7,10 +7,9 @@
 
 ## 💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-    
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="width: 65%;">
+
 🔭 **I'm currently working at HSBC** as an SDET Software Engineer  
 🌱 **I'm currently learning:**  
 ![ARKit](https://img.shields.io/badge/-ARKit-black?style=flat&logo=apple)
@@ -49,15 +48,12 @@
 
 ⚡ **Fun fact:** I automate job searches while drinking ☕  
 [![Buy Me Coffee](https://img.shields.io/badge/-Buy_Me_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](your-bmc-link)
-    
-    </td>
-    <td valign="center" width="40%">
-      <div align="center">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif" width="100%" alt="Automation in action">
-      </div>
-    </td>
-  </tr>
-</table>
+
+  </div>
+  <div style="width: 30%;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif" width="100%" alt="Automation in action">
+  </div>
+</div>
 
 
 ## 🔥 Why ApplyMate?
