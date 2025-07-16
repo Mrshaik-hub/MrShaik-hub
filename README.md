@@ -16,8 +16,13 @@
   <h3 align="center">Crafting clean code & test automation magic</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif)">
 
-<p align="left"> <a href="https://twitter.com/ganeshrajugalla" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshrajugalla?logo=twitter&style=for-the-badge" alt="ganeshrajugalla" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/shaik_mahaboob" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/shaik_mahaboob?color=1DA1F2&label=Follow&logo=twitter&logoColor=white&style=flat-square" alt="shaik_mahaboob" />
+  </a>
+</p>
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=Mrshaik-hub&color=268f77&label=Hey!!!+Visitor)
 
