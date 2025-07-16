@@ -61,16 +61,31 @@
   
   
 
-## 🔥 Why ApplyMate?
+## 🔥 Why ApplyMate? Your 24/7 AI Job Hunting Companion
 
 <div align="center">
+ <img align="right" alt="Coding" width="200" src="https://zylitix.ai/wp-content/uploads/2024/04/rpa-gif-img.gif">
   
-  "Tired of manual job hunting? Let our AI army work 24/7 for you!"  
+"🚀 **Stop the job search grind** - Our AI does the heavy lifting while you focus on what matters!"  
 
-  <img align="right" alt="Coding" width="200" src="https://zylitix.ai/wp-content/uploads/2024/04/rpa-gif-img.gif">
-  
+"💼 **Never miss an opportunity** - Intelligent tracking for new openings across 50+ job boards"  
+
+"⏳ **Save 20+ hours/week** - Automate applications, follow-ups, and interview scheduling"  
+
+"🤖 **AI that learns your preferences** - Gets smarter with every application you approve"  
+
+"📈 **Real-time dashboard** - Track applications, responses, and optimize your strategy"  
 
 </div>
+
+<div align="center" style="margin-top: 20px;">
+  
+[![Try Now](https://img.shields.io/badge/-TRY_NOW-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mrshaik-hub/ApplyMate)
+[![Demo](https://img.shields.io/badge/-SEE_DEMO-blue?style=for-the-badge&logo=youtube&logoColor=white)](your-demo-link)
+[![Docs](https://img.shields.io/badge/-DOCUMENTATION-2496ED?style=for-the-badge&logo=gitbook&logoColor=white)](your-docs-link)
+
+</div>
+
 
 
 
