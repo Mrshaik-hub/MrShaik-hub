@@ -26,6 +26,21 @@ https://user-images.githubusercontent.com/your-video-path/preview
 | **ChatGPT Sidekick** | AI that interviews for you | <img src="https://media.giphy.com/media/ai-chatbot.gif" width="300"> |
 | **Resume Wizard** | Auto-tunes your resume per job | <img src="https://media.giphy.com/media/resume-magic.gif" width="300"> |
 
+## 📊 GitHub Stats ⚡
+
+<div align="center">
+
+<!-- GitHub Stats Card -->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrshaik-hub&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)
+
+<!-- Most Used Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrshaik-hub&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mrshaik-hub&theme=radical&hide_border=true)
+
+</div>
+
 ## 🧙‍♂️ Tech Wizardry
 
 <div align="center">
