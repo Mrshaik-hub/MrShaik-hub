@@ -16,7 +16,7 @@
   <p align="center"><strong><span style="font-size: 20px;">CRAFTING CLEAN CODE & TEST AUTOMATION MAGIC</span></strong></p>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://i.gifer.com/3AyY.gif)">
 
 ### 👋 ![](https://komarev.com/ghpvc/?username=Mrshaik-hub&color=268f77&label=Hey!!!+Visitor)
 
