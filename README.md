@@ -13,6 +13,15 @@
 <div style="display: flex; gap: 20px;">
   <div style="flex: 2;">
 
+  <h3 align="center">A passionate iOS developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <a href="https://twitter.com/ganeshrajugalla" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshrajugalla?logo=twitter&style=for-the-badge" alt="ganeshrajugalla" /></a> </p>
+
+### 👋 ![](https://komarev.com/ghpvc/?username=roynkem&color=268f77&label=Hey!!!+Visitor)
+
+
 🔭 **I'm currently working at HSBC** as an SDET Software Engineer  
 🌱 **I'm currently learning:**  
 ![ARKit](https://img.shields.io/badge/-ARKit-black?style=flat&logo=apple)
