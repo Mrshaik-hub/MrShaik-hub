@@ -5,56 +5,17 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif" width="300" alt="ApplyMate in action">
 </div>
 
-## 💻 About Me
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="width: 65%;">
-
+[//]: # (Left-aligned text)
 🔭 **I'm currently working at HSBC** as an SDET Software Engineer  
 🌱 **I'm currently learning:**  
-![ARKit](https://img.shields.io/badge/-ARKit-black?style=flat&logo=apple)
-![CoreML](https://img.shields.io/badge/-CoreML-black?style=flat&logo=apple)
-![Vapor](https://img.shields.io/badge/-Vapor-0D0D0D?style=flat&logo=vapor)
-![Realm](https://img.shields.io/badge/-Realm-39477F?style=flat&logo=realm)
+![ARKit](https://img.shields.io/badge/-ARKit-black?style=flat&logo=apple) 
+![CoreML](https://img.shields.io/badge/-CoreML-black?style=flat&logo=apple)  
+... (rest of your content) ...
 
-👯 **I'm looking to collaborate on:**  
-- Automation frameworks  
-- AI-powered testing tools  
-- CI/CD pipeline optimizations  
-
-🤝 **I'm looking for help with:**  
-- Advanced Karate framework implementations  
-- Performance testing at scale  
-
-👨‍💻 **All my automation projects:**  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Mrshaik-hub?tab=repositories)
-
-📝 **I write about:**  
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](your-medium-profile)  
-*Testing strategies, Automation tips, and CI/CD best practices*
-
-💬 **Ask me about:**  
-- Selenium/Java automation  
-- Karate API testing  
-- Jenkins pipeline design  
-- SWIFT message validation  
-
-📫 **How to reach me:**  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaikmahaboobsubhani00@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)  
-
-📄 **Know more about my journey:**  
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](your-resume-link)
-
-⚡ **Fun fact:** I automate job searches while drinking ☕  
-[![Buy Me Coffee](https://img.shields.io/badge/-Buy_Me_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](your-bmc-link)
-
-  </div>
-  <div style="width: 30%;">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl1eGx4d3V5d2V5Z3RkNmR6YzB0Z2VqY2N6ZzZ1aGZ6eHpxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qE1YN7aCHOFS7Ag/giphy.gif" width="100%" alt="Automation in action">
-  </div>
+[//]: # (Right-aligned GIF)
+<div align="right">
+  <img src="https://media.giphy.com/media/your-gif-url.gif" width="300" alt="Automation">
 </div>
-
 
 ## 🔥 Why ApplyMate?
 
