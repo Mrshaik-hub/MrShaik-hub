@@ -149,13 +149,17 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![WebDriver](https://img.shields.io/badge/WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![RestAssured](https://img.shields.io/badge/Rest_Assured-009688?style=for-the-badge&logo=rest&logoColor=white)
+![API_Automation](https://img.shields.io/badge/API_Automation-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-007396?style=for-the-badge&logo=amazonaws&logoColor=white)
-![JenkinsCI/CD](https://img.shields.io/badge/Jenkins_CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jenkins_CI/CD](https://img.shields.io/badge/Jenkins_CI/CD-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
@@ -164,7 +168,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![UI_Automation](https://img.shields.io/badge/UI_Automation-25A162?style=for-the-badge&logo=selenium&logoColor=white)
-![AI_Automation](https://img.shields.io/badge/AI_Automation-FF6F00?style=for-the-badge&logo=openai&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-009688?style=for-the-badge&logo=testng&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
 </div>
 
