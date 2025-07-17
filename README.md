@@ -63,7 +63,7 @@
 
 ## 🔥 Why ApplyMate? Your 24/7 AI Job Hunting Companion
 
-<div align="center">
+<div align="left">
  <img align="right" alt="Coding" width="200" src="https://zylitix.ai/wp-content/uploads/2024/04/rpa-gif-img.gif">
   
 "🤖 **Smart Profile Optimization** - Automatically updates your Naukri keywords daily based on market trends"  
@@ -102,7 +102,7 @@
 
 ## 📊 GitHub Stats ⚡
 
-<div align="center">
+<div align="left">
 
 <!-- GitHub Stats Card -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrshaik-hub&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)
@@ -144,7 +144,7 @@
 
 ## 🧙‍♂️ Tech Wizardry
 
-<div align="center">
+<div align="left">
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
