@@ -1,5 +1,5 @@
 # 🚀 Mahaboob Subhani Shaik
-** SDET | Automation Architect | **
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7D9&width=600&lines=Welcome+to+my+GitHub+Profile!;3.8+Years+of+Automation+Excellence;70%25+Regression+Effort+Reduction;150%2B+APIs+Automated" alt="Header Animation">
