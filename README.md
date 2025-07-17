@@ -23,10 +23,13 @@
 
 🔭 **I'm currently working at HSBC** as an SDET Software Engineer  
 🌱 **I'm currently learning:**  
-![ARKit](https://img.shields.io/badge/-ARKit-black?style=flat&logo=apple)
-![CoreML](https://img.shields.io/badge/-CoreML-black?style=flat&logo=apple)
-![Vapor](https://img.shields.io/badge/-Vapor-0D0D0D?style=flat&logo=vapor)
-![Realm](https://img.shields.io/badge/-Realm-39477F?style=flat&logo=realm)
+![Playwright](https://img.shields.io/badge/Playwright-45BA4A?style=for-the-badge&logo=playwright&logoColor=white)  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
+![RestAssured](https://img.shields.io/badge/Rest_Assured-009688?style=for-the-badge&logo=rest&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP_(Natural_Language_Processing)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
 
 👯 **I'm looking to collaborate on:**  
 - Automation frameworks  
