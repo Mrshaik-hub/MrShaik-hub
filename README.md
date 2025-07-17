@@ -102,7 +102,7 @@
 
 ## 📊 GitHub Stats ⚡
 
-<div align="left">
+<div align="centre">
 
 <!-- GitHub Stats Card -->
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrshaik-hub&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)
