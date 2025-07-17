@@ -23,10 +23,11 @@
 
 🔭 **I'm currently working at HSBC** as an SDET Software Engineer  
 🌱 **I'm currently learning:**  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-45BA4A?style=flat&logo=playwright&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/-RestAssured-009688?style=flat&logo=rest&logoColor=white)
-
+![NLP](https://img.shields.io/badge/-NLP-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-74AA9C?style=flat&logo=openai&logoColor=white)
 
 👯 **I'm looking to collaborate on:**  
 - Automation frameworks  
