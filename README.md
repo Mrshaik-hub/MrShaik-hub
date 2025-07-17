@@ -97,7 +97,7 @@
 |---------|----------|-----------|
 | **Naukri AI** | Applies to 100+ jobs/day automatically | <img src="https://media.giphy.com/media/naukri-demo.gif" width="300"> |
 | **Visa Vision** | Never miss slot openings | <img src="https://media.giphy.com/media/visa-tracking.gif" width="300"> |
-| **TrueQuery** | AI that interviews for you | <img src="https://media.giphy.com/media/ai-chatbot.gif" width="300"> |
+| **TrueQuery** | AI that solves your code problems | <img src="https://media.giphy.com/media/ai-chatbot.gif" width="300"> |
 | **Karate** | API automation tool | <img src="https://media.giphy.com/media/resume-magic.gif" width="300"> |
 
 ## 📊 GitHub Stats ⚡
