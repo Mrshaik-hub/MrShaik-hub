@@ -92,7 +92,7 @@
 
 
 
-## ✨ Magical Features
+## ✨ What I Built
 
 | Feature | Wizardry | Live Demo |
 |---------|----------|-----------|
