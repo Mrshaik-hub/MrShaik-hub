@@ -23,12 +23,9 @@
 
 🔭 **I'm currently working at HSBC** as an SDET Software Engineer  
 🌱 **I'm currently learning:**  
-![Playwright](https://img.shields.io/badge/Playwright-45BA4A?style=for-the-badge&logo=playwright&logoColor=white)  
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)  
-![RestAssured](https://img.shields.io/badge/Rest_Assured-009688?style=for-the-badge&logo=rest&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP_(Natural_Language_Processing)-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/-Playwright-45BA4A?style=flat&logo=playwright&logoColor=white)
+![RestAssured](https://img.shields.io/badge/-RestAssured-009688?style=flat&logo=rest&logoColor=white)
 
 
 👯 **I'm looking to collaborate on:**  
