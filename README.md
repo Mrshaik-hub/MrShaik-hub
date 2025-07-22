@@ -29,6 +29,11 @@
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-74AA9C?style=flat&logo=openai&logoColor=white)
 
+I live where bugs hide. I don’t automate because it’s easy — 
+I automate because no one has time for lazy testing. Give me flaky tests,
+legacy mess, impossible deadlines — I’ll turn them into clean, sharp,
+battle-ready pipelines. I don’t follow best practices. I write them.
+
 👯 **I'm looking to collaborate on:**  
 - Automation frameworks  
 - AI-powered testing tools  
