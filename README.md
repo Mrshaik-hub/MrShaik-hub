@@ -53,7 +53,7 @@
 
 📫 **How to reach me:**  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaikmahaboobsubhani00@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahaboob-subhani-shaik-896083203)  
 
 📄 **Know more about my journey:**  
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](your-resume-link)
