@@ -6,7 +6,7 @@
 </div>
 
 **They ship code. I ship confidence.**<br>
-I live where bugs hide. I don’t automate because it’s easy — 
+I don’t automate because it’s easy — 
 I automate because no one has time for lazy testing. Give me flaky tests,
 legacy mess, impossible deadlines — I’ll turn them into clean, sharp,
 battle-ready pipelines. I don’t follow best practices. I write them.
