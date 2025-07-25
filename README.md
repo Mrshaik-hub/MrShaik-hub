@@ -36,12 +36,12 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 ![OpenAI](https://img.shields.io/badge/-OpenAI-74AA9C?style=flat&logo=openai&logoColor=white)
 
 
-👯 **I'm looking to collaborate on:**  
+👯 **🔧 I’ve worked on**  
 - Automation frameworks  
 - AI-powered testing tools  
 - CI/CD pipeline optimizations  
 
-🤝 **I'm looking for help with:**  
+🤝 **🔄 In Progress**  
 - Advanced Karate framework implementations  
 - Performance testing at scale  
 
