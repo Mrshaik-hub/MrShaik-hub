@@ -48,7 +48,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 👨‍💻**All my automation projects:**  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Mrshaik-hub?tab=repositories)
 
-📝**I write about:**  
+📝**I write detailed Articles:**  
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@shaikmahaboobsubhani00/how-to-automate-naukri-login-using-java-selenium-d38a9a7feb20)
   
 *Testing strategies, Automation tips, and CI/CD best practices*
