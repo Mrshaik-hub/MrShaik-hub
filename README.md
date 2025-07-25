@@ -36,19 +36,19 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 ![OpenAI](https://img.shields.io/badge/-OpenAI-74AA9C?style=flat&logo=openai&logoColor=white)
 
 
-👯 **🔧 I’ve worked on**  
+**🔧 I’ve worked on**  
 - Automation frameworks  
 - AI-powered testing tools  
 - CI/CD pipeline optimizations  
 
-🤝 **🔄 In Progress**  
+**🔄 In Progress**  
 - Advanced Karate framework implementations  
 - Performance testing at scale  
 
-👨‍💻 **All my automation projects:**  
+👨‍💻**All my automation projects:**  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Mrshaik-hub?tab=repositories)
 
-📝 **I write about:**  
+📝**I write about:**  
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@shaikmahaboobsubhani00/how-to-automate-naukri-login-using-java-selenium-d38a9a7feb20)
   
 *Testing strategies, Automation tips, and CI/CD best practices*
