@@ -64,7 +64,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahaboob-subhani-shaik-896083203) 
 
 📄 **Know more about my journey:**  
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](your-resume-link)
+[![Resume](https://img.shields.io/badge/-View%20My%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Mrshaik-hub/ApplyMate/blob/main/src/test/resources/resumeAI/Mahaboob-Subhani-Shaik-SDET%20Automation%20Test%20Engineer-3.8%20Years.pdf%20(13).pdf?raw=true)
 
 
   
