@@ -49,7 +49,8 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/Mrshaik-hub?tab=repositories)
 
 📝 **I write about:**  
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)]([your-medium-profile](https://medium.com/@shaikmahaboobsubhani00/how-to-automate-naukri-login-using-java-selenium-d38a9a7feb20))  
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@shaikmahaboobsubhani00/how-to-automate-naukri-login-using-java-selenium-d38a9a7feb20)
+  
 *Testing strategies, Automation tips, and CI/CD best practices*
 
 💬 **Ask me about:**  
@@ -60,7 +61,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 
 📫 **How to reach me:**  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shaikmahaboobsubhani00@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mahaboob-subhani-shaik-896083203)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahaboob-subhani-shaik-896083203) 
 
 📄 **Know more about my journey:**  
 [![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat&logo=google-drive&logoColor=white)](your-resume-link)
