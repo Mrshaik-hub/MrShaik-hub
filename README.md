@@ -70,7 +70,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
   
   
 
-## 🔥 Why ApplyMate? Your 24/7 AI Job Hunting Companion
+## 🔥 Naukri AI (ApplyMate) - Automation
 
 <div align="center">
  <img align="right" alt="Coding" width="200" src="https://zylitix.ai/wp-content/uploads/2024/04/rpa-gif-img.gif">
