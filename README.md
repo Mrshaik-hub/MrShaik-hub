@@ -156,11 +156,14 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 <div align="center">
   
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![DSA-Practice](https://img.shields.io/badge/DSA-Practice-9C27B0?style=for-the-badge&logo=codeforces&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![WebDriver](https://img.shields.io/badge/WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/Rest_Assured-009688?style=for-the-badge&logo=rest&logoColor=white)
 ![API_Automation](https://img.shields.io/badge/API_Automation-FF6F00?style=for-the-badge&logo=postman&logoColor=white)
+![DSA-Java](https://img.shields.io/badge/DSA%20with%20Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AlgoExpert](https://img.shields.io/badge/AlgoExpert-000000?style=for-the-badge&logo=algoexpert&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
@@ -179,6 +182,8 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 ![UI_Automation](https://img.shields.io/badge/UI_Automation-25A162?style=for-the-badge&logo=selenium&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-009688?style=for-the-badge&logo=testng&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 </div>
 
