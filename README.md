@@ -1,11 +1,11 @@
-# 🚀 Mahaboob Subhani Shaik - SDET
+# 🚀 MAHABOOB SUBHANI SHAIK - SDET
 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Anton&size=40&pause=1000&color=FF0000&width=900&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE!;3.8+YEARS+OF+AUTOMATION+EXCELLENCE;I+BUILD+AUTOMATION+TO+HANDLE+WHAT+HUMANS+SHOULDN%27T" alt="Header Animation" />
 </p>
 
-**They ship code. I ship confidence.**<br>
+**THEY SHIP CODE. I SHIP CONFIDENCE.**<br>
 I don’t automate because it’s easy — 
 I automate because no one has time for lazy testing. Give me flaky tests,
 legacy mess, impossible deadlines — I’ll turn them into clean, sharp,
@@ -14,7 +14,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 <div style="display: flex; gap: 20px;">
   <div style="flex: 2;">
 
-## 💻 About Me
+## 💻 ABOUT ME
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 2;">
@@ -100,7 +100,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 
 
 
-## ✨ What I Built
+## ✨ WHAT I BUILD
 
 | Feature | Wizardry | Live Demo |
 |---------|----------|-----------|
@@ -109,7 +109,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 | **Karate** | API automation tool | <img src="https://media.giphy.com/media/resume-magic.gif" width="300"> |
 | **Visa Vision** | Never miss slot openings | <img src="https://media.giphy.com/media/visa-tracking.gif" width="300"> |
 
-## 📊 GitHub Stats ⚡
+## 📊 GITHUB STATS ⚡
 
 <div align="center">
 
@@ -124,7 +124,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 
 </div>
 
-## 🛠️ Testing Technology Stack
+## 🛠️ TESTING TECHNOLOGY STACK
 
 ### Automation Frameworks
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
@@ -151,7 +151,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 
 </div>
 
-## 🧙‍♂️ Tech Wizardry
+## 🧙‍♂️ TECH WIZARD
 
 <div align="center">
   
