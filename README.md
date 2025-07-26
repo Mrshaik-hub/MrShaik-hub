@@ -2,7 +2,9 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7D9&width=600&lines=Welcome+to+my+GitHub+Profile!;3.8+Years+of+Automation+Excellence;I+build+automation+to+handle+what+humans+shouldnt" alt="Header Animation">
+  <!-- Bebas Neue version -->
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&pause=1000&color=22F7D9&width=600&lines=Welcome+to+my+GitHub+Profile!;3.8+Years+of+Automation+Excellence;I+build+automation+to+handle+what+humans+shouldn't" alt="Header Animation">
+
 </div>
 
 **They ship code. I ship confidence.**<br>
