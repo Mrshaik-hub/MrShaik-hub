@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=40&pause=1000&color=FF0000&width=800&height=100&lines=Welcome+to+my+GitHub+Profile!;3.8+Years+of+Automation+Excellence;I+build+automation+to+handle+what+humans+shouldn%27t" alt="Header Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Anton&size=40&pause=1000&color=FF0000&width=900&height=100&lines=WELCOME+TO+MY+GITHUB+PROFILE!;3.8+YEARS+OF+AUTOMATION+EXCELLENCE;I+BUILD+AUTOMATION+TO+HANDLE+WHAT+HUMANS+SHOULDN%27T" alt="Header Animation" />
 </p>
 
 **They ship code. I ship confidence.**<br>
