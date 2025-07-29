@@ -104,8 +104,8 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 
 | Feature | Wizardry | Live Demo |
 |---------|----------|-----------|
-| **Naukri AI** | Keep your naukri profile updated | <img src="https://media.giphy.com/media/naukri-demo.gif" width="300"> |
-| **TrueQuery** | AI that solves your code problems | <img src="https://media.giphy.com/media/ai-chatbot.gif" width="300"> |
+| **Naukri AI** | Keep your naukri profile updated | <img src="[https://media.giphy.com/media/naukri-demo.gif](https://www.linkedin.com/posts/mahaboob-subhani-shaik-896083203_ai-jobsearch-automation-activity-7352465963574812674-nq4i?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPNUTIB2YyIZONleheteB4VmaFJJeQfVTk)" width="300"> |
+| **TrueQuery** | AI that solves your code problems | <img src="[https://media.giphy.com/media/ai-chatbot.gif](https://www.linkedin.com/posts/mahaboob-subhani-shaik-896083203_truequery-springboot-java-activity-7352290334992748545-3N2d?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPNUTIB2YyIZONleheteB4VmaFJJeQfVTk)" width="300"> |
 | **Karate** | API automation tool | <img src="https://media.giphy.com/media/resume-magic.gif" width="300"> |
 | **Visa Vision** | Never miss slot openings | <img src="https://media.giphy.com/media/visa-tracking.gif" width="300"> |
 
