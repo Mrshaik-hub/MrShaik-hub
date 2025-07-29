@@ -106,6 +106,7 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 |----------------|-----------------------------------|-----------|
 | **Naukri AI**   | Keep your Naukri profile updated  | [▶️ Watch Demo](https://www.linkedin.com/posts/mahaboob-subhani-shaik-896083203_ai-jobsearch-automation-activity-7352465963574812674-nq4i?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPNUTIB2YyIZONleheteB4VmaFJJeQfVTk) |
 | **TrueQuery**   | AI that solves your code problems | [▶️ Watch Demo](https://www.linkedin.com/posts/mahaboob-subhani-shaik-896083203_truequery-springboot-java-activity-7352290334992748545-3N2d?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPNUTIB2YyIZONleheteB4VmaFJJeQfVTk) |
+| **CI/CD**       | Automates build & deploy          | [▶️ Watch Demo](https://www.linkedin.com/posts/mahaboob-subhani-shaik-896083203_naukriai-jenkinspipeline-automationengineer-activity-7354032917464969217-YYkE?utm_source=share&utm_medium=member_desktop&rcm=ACoAADPNUTIB2YyIZONleheteB4VmaFJJeQfVTk) |
 | **Karate**      | API automation tool               | [▶️ Watch Demo](https://media.giphy.com/media/resume-magic.gif) |
 | **Visa Vision** | Never miss slot openings          | [▶️ Watch Demo](https://media.giphy.com/media/visa-tracking.gif) |
 
