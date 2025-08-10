@@ -116,13 +116,13 @@ battle-ready pipelines. I don’t follow best practices. I write them.
 <div align="center">
 
 <!-- GitHub Stats Card -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrshaik-hub&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithshaik&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true)
 
 <!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrshaik-hub&layout=compact&theme=radical&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshaik&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 <!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mrshaik-hub&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=codewithshaik&theme=radical&hide_border=true)
 
 </div>
 
